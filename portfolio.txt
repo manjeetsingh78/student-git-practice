@@ -1,0 +1,10 @@
+My Portfolio
+------------
+Projects:
+1. CI/CD pipeline
+   Description: It is a project to learn about CI/CD pipeline
+   Technologies: CI/CD pipeline
+   
+2. Automation with python
+   Description: It is basic project for class
+   Technologies: Python"
