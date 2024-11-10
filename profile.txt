@@ -1,0 +1,5 @@
+Name: Manjeet Singh
+Student ID: 12307335
+Favorite Programming Language: Python
+GitHub Username: manjeetsingh78
+Current Semester: SEM-03
